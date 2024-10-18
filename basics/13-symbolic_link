@@ -1,4 +1,5 @@
 #!/bin/bash
-lrwxrwxrwx  1 ubuntu ubuntu      7 Sep 20 03:24 __ls__ -> /bin/ls
+ln -s . ..  /bin/ls __ls__
+
 
 
