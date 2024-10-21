@@ -1,0 +1,2 @@
+#!/bin/bash
+echo -e '#!/bin/bash\nwhoami' > print_username.sh     
