@@ -1,2 +1,2 @@
 #!/bin/bash
-./change_owner.sh
+sudo ./change_owner.sh
