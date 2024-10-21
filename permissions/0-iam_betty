@@ -1,2 +1,2 @@
 #!/bin/bash
-nsu betty' > switch_user.sh     
+su betty
