@@ -1,3 +1,2 @@
 #!/bin/bash
-echo "su betty" > script.sh
-chmod +x script.sh     
+echo "su betty" > script.sh     
