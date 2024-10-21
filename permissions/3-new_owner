@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod +x change_owner.sh
+echo -e '#!/bin/bash\nchown betty hello' > change_owner.sh
