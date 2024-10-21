@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod +x create_directory.sh
+ls -ld my_dir
