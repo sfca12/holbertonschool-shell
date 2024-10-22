@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo ./change_owner.sh
+chown betty hello
